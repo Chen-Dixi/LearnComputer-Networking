@@ -2,4 +2,4 @@
 
 ## Progress
 
-[] [Lab0](https://github.com/Chen-Dixi/sponge/tree/lab0-startercode)
+- [ ] [Lab0](https://github.com/Chen-Dixi/sponge/tree/lab0-startercode)
