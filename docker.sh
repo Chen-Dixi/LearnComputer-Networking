@@ -1,0 +1,1 @@
+docker run --rm -it --name cs144_conainer --mount type=bind,src=$(pwd),dst=/root/CS144 -w /root/CS144 vidocqh/cs144:latest
